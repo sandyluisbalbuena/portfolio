@@ -1,0 +1,61 @@
+.image1 {
+    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img1.jpg");
+    filter: brightness(70%);
+    }
+.image2 {
+    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img2.jpg");
+    filter: brightness(70%);
+}
+
+.image3 {
+    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img3.jpg");
+    filter: brightness(70%);
+}
+
+.bg {
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.h1-custom{
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    font-weight: bolder;
+    font-size: 4em;
+    color:rgb(202, 208, 212);
+    /* z-index: 1; */
+}
+
+.card {
+    background-color: #1B2D4F;
+    color: antiquewhite;
+}
+
+.btn-primary{
+    background-color: #094242;
+    border-color: #094242;
+}
+
+nav {
+    background-color: #083030;
+}
+
+table {
+    background-color: #215473;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+img {
+    width: 100%;
+}
+
+/* .row {
+    z-index: 200;
+} */
