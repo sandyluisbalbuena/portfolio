@@ -1,14 +1,14 @@
 .image1 {
-    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img1.jpg");
+    background-image: url("images/img1.jpg");
     filter: brightness(70%);
     }
 .image2 {
-    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img2.jpg");
+    background-image: url("images/img2.jpg");
     filter: brightness(70%);
 }
 
 .image3 {
-    background-image: url("C:/Users/SANDY LUIS/OneDrive - 8f0gpj/Desktop/KODEGO/experiment/images/img3.jpg");
+    background-image: url("images/img3.jpg");
     filter: brightness(70%);
 }
 
